@@ -1,0 +1,15 @@
+{
+  "name": "My Cloud Computer",
+  "short_name": "My Computer",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3D3D3D",
+  "background_color": "#3D3D3D",
+  "author": "Vinod Pahuja",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/jpeg"
+    }
+  ]
+}
